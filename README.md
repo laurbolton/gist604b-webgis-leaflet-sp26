@@ -4,13 +4,14 @@ Repository for building an interactive web mapping application using HTML, CSS, 
 ## Repository Structure
     .
     ├── data/
-    │   ├── your_point_layer.geojson
-    │   ├── your_line_layer.geojson
-    │   └── your_polygon_layer.geojson
+    │   ├── blue_bike_stations.geojson
+    │   ├── city_of_boston_outline_boundary.geojson
+    │   ├── existing_bike_network_2024.geojson
+    │   └── open_space.geojson   
     ├── js/
-    │   └── your_js_file.js
+    │   └── map.js
     ├── css/
-    │   └── your_css_file.css
+    │   └── styles.css
     ├── index.html
     ├── package.json
     ├── package-lock.json

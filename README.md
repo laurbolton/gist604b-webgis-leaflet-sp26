@@ -1,4 +1,4 @@
-# WebGIS with Leaflet
+# WebGIS & Full-Stack Orchestration
 **Student:** Lauren Bolton  
 **Course:** GIST 604B – Open Source GIS  
 **Module 6:** WebGIS & Full-Stack Orchestration  
